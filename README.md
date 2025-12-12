@@ -44,4 +44,4 @@ The project follows a standard structure:
 3. Enter a name and play!
 
 ## License
-MIT
+[Apache-2.0](LICENSE)
