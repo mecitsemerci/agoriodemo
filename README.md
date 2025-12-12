@@ -2,7 +2,7 @@
 
 A real-time multiplayer implementation of the classic Agario game, built with Node.js, Express, and Socket.io.
 
-![Gameplay Screenshot](screenshot.png)
+![Gameplay Screenshot](Screenshot.png)
 
 ## Features
 - **Multiplayer**: Play against others in real-time.
